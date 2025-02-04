@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; //é uma diretiva de namespace que permite acessar classes e métodos sem precisar escrever o caminho completo.
 
 class Program {
     static void Main() {
